@@ -6,9 +6,14 @@ The web app utilizes Github REST API!
 ----------------
 
 Steps to use:
+----------------
+
 Default User
+----------------
 ♦ Click 'Get User Repos' button to list the public repositories of the default user (prabhrai).
+----------------
 
 Custom User
+----------------
 ♦ Enter the GitHub username of the desired user in user text box.
 ♦ Click 'Get Custom User Repos' button to list the public repositories of the desired user.
