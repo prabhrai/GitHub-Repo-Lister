@@ -5,15 +5,12 @@ This web app lists the public repositories for a given set user and also allows 
 The web app utilizes Github REST API! 
 ----------------
 
-Steps to use:
-----------------
+Steps to use:  
+Default User 
+♦ Click 'Get User Repos' button to list the public repositories of the default user (prabhrai).  
+  
+   
 
-Default User
-----------------
-♦ Click 'Get User Repos' button to list the public repositories of the default user (prabhrai).
-----------------
-
-Custom User
-----------------
+Custom User  
 ♦ Enter the GitHub username of the desired user in user text box.
 ♦ Click 'Get Custom User Repos' button to list the public repositories of the desired user.
